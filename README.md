@@ -27,3 +27,5 @@ You can download appropriate version of each by just running 'pom.xml'
 * MYSQL - 5.1.46
 * Spring Security
 * JSP
+
+### Reference : https://www.javaguides.net/2018/09/mini-todo-management-project-using-spring-boot-springmvc-springsecurity-jsp-hibernate-mysql.html
